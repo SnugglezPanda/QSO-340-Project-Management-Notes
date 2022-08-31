@@ -109,3 +109,30 @@ Often, a project management office (PMO) is charged with supporting project mana
 
 PMO ensures that projects within the organization follow similar protocols and or help project managers successfully adapt ==process==(a systematic series of actvities directed toward causing an end result such that one or more inputs will be acted upon to create one or more outputs), tools, and techniques to manage projects
 
+To effectively manage projects*, practitioners need a unique combination of skills, expertise, and knowledge, to help teams bring their projects to completion in the most productive and efficient way possible.
+
+## <strong>What is Project Management?</strong>
+
+Project management is the application of resources and the administration of knowledge, tools, and skills to meet project objectives.
+
+<strong>Project management balancing restraints:</strong>
+* Scope
+* Quality
+* Schedule
+* Budget 
+* Resource
+* Risk
+
+These constraints are interconnected and must thoughtfully be addressed to ensure success. If one contraint is changed, this will most likely affect the other constraints and quality of the deliverable.
+
+Some basic but essential information to manage projects effectively:
+
+1. A project charter
+2. An overaching project management plan
+3. Budget for time and cost
+4. Baselines and measurements to compare against results
+
+It is possibe to conduct projects without rigorous plannin, however it comes at a risk due to insufficient documentations.
+
+## Project Management Terminology
+
