@@ -56,4 +56,56 @@ Organizational project management (OPM) is a strategy execution framework utiliz
 
 To effectively manage projects, practitioners need a unique combination of skills, expertise, and knowledge, to help teams bring their projects to completion in the most productive and efficient way possible. A talented project manager* who can employ the concrete tools*, techniques*, and methodologies*—as well as the less-concrete "interpersonal skills*"—can be the difference between a successful project and an unmitigated disaster.
 
+### Project Stakehohlders
+
+Project management involves coordinating and considering the needs of project stakeholders. A stakeholder may be an individual person, an organization, or a larger entity that has an interest in the project or is actively involved in the project in some way. 
+
+project stakeholders are those who can affect the project, who can be affected by the project, or who simply believe they can be affected by the project.
+
+| Project Management Team | The Project Management Team | Sponsors |
+| ----------------------- | --------------------------- | -------- |
+| Shareholders | The Government | Senior Executives |
+| Suppliers | Trade Associations | Co-workers |
+| Lenders | Media | Customers | 
+| Analysts | The Public | Prospectiv Clients |
+| Future Employees | The Community | Project Management Office |
+
+
+### Who manages the Project?
+
+To be an effective project manager, it is important to understand the project's role in the broader organizational context. 
+
+## Project manager roles....
+
+<strong>On the project:</strong>
+* Lead the team to achieve project objectives and meet expectations
+* Balance constraints*
+* Communicate with the project sponsor, team, and stakeholders
+* Balance conflicting or competing stakeholder goals
+
+<strong>In the project:</strong>
+* Interact and negotiate with other managers for resource demands, funding, and distribution capabilities
+* Ensure alignment of the project's goals with the organization's goals and other needs
+* Advocate for project management within the organization
+* Increase project management skills and competency within the organization
+* Transfer knowledge and lessons learned* to others
+
+<strong>In the industry and across disciplines:</strong>
+* Apply industry standards and breakthroughs to organizational deliverables
+* Provide professional development and training in project management and related disciplines
+* Disseminate knowledge at the local, national, and international levels
+
+## Project Management Office
+
+Often, a project management office (PMO) is charged with supporting project managers and sometimes managing projects on its own.
+
+<strong>Project management responsibilities:</strong>
+* Establishing priorities
+* Managing the organization's portfolio* of projects
+* Allocating resources
+* Organizing technical training for team members
+* Developing project forms and templates*
+* Forecasting and planning
+
+PMO ensures that projects within the organization follow similar protocols and or help project managers successfully adapt ==process==(a systematic series of actvities directed toward causing an end result such that one or more inputs will be acted upon to create one or more outputs), tools, and techniques to manage projects
 
