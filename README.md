@@ -146,4 +146,13 @@ It is possibe to conduct projects without rigorous plannin, however it comes at 
 | ---- | ---------- |
 | Scope | An explanation of the work included in the project |
 | Baseline | A tool used to compare expected performance to actua results. Often created to measure a project's scope, cost and schedule performance |
-| 
+| Budget | An aggregation of the expected costs to complete the project |
+| Charter | A foundational document that sets the expectations for the project |
+| Network Diagram | A graphic representation of the schedule that shows the sequence of project activities |
+| Work Breakdown Structure (WBS) | A hierarichal  breakdown of the work needed to complete the project |
+| Responsibility Assignment Matrix | A chart that assigns responsibility for project work to project participants |
+| Risk Register | A document that tracks risk, the planned responses for risks, and the results of implementing those responses | 
+| Program | A group of projects that, because they are related in some way, can be managed together, to reap benefits that would not be available if the projects were managed separately | 
+| Portfolio | A group of projects and/or programs that are undertaken to meet an organization's strategic objectives |
+
+
