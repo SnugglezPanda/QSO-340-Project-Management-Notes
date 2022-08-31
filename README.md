@@ -136,3 +136,14 @@ It is possibe to conduct projects without rigorous plannin, however it comes at 
 
 ## Project Management Terminology
 
+* Project phases - A collection of logically related project activities that cumulates in the completion of one or more deliverables
+* Project stage - The period of time during which processess, initiating, planning executioning, monitoring & controlling, or closing generally occur
+* Product life cycle - Series of phases that represent evolution of a product through concept of delivery, growth, maturity and to retirement
+* Project life cyle 
+* Projects
+
+| Term | Definition |
+| ---- | ---------- |
+| Scope | An explanation of the work included in the project |
+| Baseline | A tool used to compare expected performance to actua results. Often created to measure a project's scope, cost and schedule performance |
+| 
